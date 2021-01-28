@@ -1,6 +1,7 @@
 # 100daysofdatascience
 
 Day-1 : What-if Analysis in EXCEL and designed a strategy for sales growth
+
 https://www.linkedin.com/posts/vikram-k-4507b3104_100daysofdatascience-datascience-datavisualization-activity-6740643158499176448-Wm-3
 
 Day-2 : Created the dashboard for Sales growth with my strategy clearly explaining the areas.
