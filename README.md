@@ -1,14 +1,12 @@
 # 100daysofdatascience
 
 Day-1 : What-if Analysis in EXCEL and designed a strategy for sales growth
-
 https://www.linkedin.com/posts/vikram-k-4507b3104_100daysofdatascience-datascience-datavisualization-activity-6740643158499176448-Wm-3
 
 Day-2 : Created the dashboard for Sales growth with my strategy clearly explaining the areas.
 https://www.linkedin.com/posts/vikram-k-4507b3104_datastorytelling-alphaaai-1billion-activity-6740524112793493504--mbX
 
-Day-3: Started " Data Analysis using python" on Coursera.   
-      Basics of Data Analysis and Statistics
+Day-3: Started " Data Analysis using python" on Coursera.  (Basics of Data Analysis and Statistics)
 https://www.linkedin.com/posts/vikram-k-4507b3104_100daysofdatascience-datascience-machinelearning-activity-6741753020310278144-GqSa
 
 Day-4: Z- score and Outliers and how to detect them.
