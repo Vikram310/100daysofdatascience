@@ -45,3 +45,36 @@ https://www.linkedin.com/posts/vikram-k-4507b3104_100daysofdatascience-100daysof
 
 Day-18,19: Completed the course "Data Analysis using Python"
 https://www.linkedin.com/posts/vikram-k-4507b3104_completion-certificate-for-data-analysis-activity-6748525367738413056-Q8Ug
+
+Day-20: Basic Data Visualization in Matplotlib
+https://www.linkedin.com/posts/vikram--krishna_100daysofdatascience-100daysoflearning-100daysofmlcode-activity-6749360353488064512-wATp
+
+Day-21: Specialized Data Visualization tools in "Data Visualization in Python" on Coursera
+https://www.linkedin.com/posts/vikram--krishna_100daysofdatascience-100daysoflearning-100daysofmlcode-activity-6749685689211854848-1wXA
+
+Day-22: Advanced Data Visualization tools in "Data Visualization in Python" on Coursera
+https://www.linkedin.com/posts/vikram--krishna_100daysofdatascience-100daysoflearning-100daysofmlcode-activity-6751129751626358784-vvn0
+
+Day-23: Completed course "Data Visualization using Python" 
+https://www.linkedin.com/posts/vikram--krishna_completion-certificate-for-data-visualization-activity-6751890469468413952-nntK
+
+Day-24: SQL refresher part-1: Types of commands and Handling null values
+https://www.linkedin.com/posts/vikram--krishna_sql-day-1-activity-6755108408447393792-85d8
+
+Day-25: Subqueries temporary tables Self joins in SQL
+https://www.linkedin.com/posts/vikram--krishna_sql-day-2-activity-6755469433290006528-LjRl
+
+Day-26: Window functions in SQL
+https://www.linkedin.com/posts/vikram--krishna_sql-day-3-activity-6755836974487220224-oXk6
+
+Day-27: UDF in SQL
+https://www.linkedin.com/posts/vikram--krishna_sql-day-4-activity-6756917759420055552-WG9m
+
+Day-28: Indexing in SQL
+https://www.linkedin.com/posts/vikram--krishna_sql-day-5-activity-6758005519778217984-tFCA
+
+Day-29: Advanced Excel charts(Marker charts)
+https://www.linkedin.com/posts/vikram--krishna_100daysofdatascience-dswithvikram-datavisualization-activity-6759588174755954688-0JDI
+
+Day-30: Gantt Chart in Excel
+https://www.linkedin.com/posts/vikram--krishna_100daysofdatascience-dswithvikram-datavisualization-activity-6759948441352232960-WWJ_
