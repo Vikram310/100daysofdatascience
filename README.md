@@ -77,3 +77,6 @@ https://www.linkedin.com/posts/vikram--krishna_100daysofdatascience-dswithvikram
 
 Day-30: Gantt Chart in Excel
 https://www.linkedin.com/posts/vikram--krishna_100daysofdatascience-dswithvikram-datavisualization-activity-6759948441352232960-WWJ_
+
+Day-31: Practiced StrataScratch SQL questions of Facebook
+https://www.linkedin.com/posts/vikram--krishna_100daysofdatascience-dswithvikram-technology-activity-6768211510310391808-7brP
