@@ -80,3 +80,6 @@ https://www.linkedin.com/posts/vikram--krishna_100daysofdatascience-dswithvikram
 
 Day-31: Practiced StrataScratch SQL questions of Facebook
 https://www.linkedin.com/posts/vikram--krishna_100daysofdatascience-dswithvikram-technology-activity-6768211510310391808-7brP
+
+Day-32: First part of "Making friends with Machine Learning"
+https://www.linkedin.com/posts/vikram--krishna_100daysofdatascience-dswithvikram-technology-activity-6768561840420220928-Agox
