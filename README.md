@@ -83,3 +83,6 @@ https://www.linkedin.com/posts/vikram--krishna_100daysofdatascience-dswithvikram
 
 Day-32: First part of "Making friends with Machine Learning"
 https://www.linkedin.com/posts/vikram--krishna_100daysofdatascience-dswithvikram-technology-activity-6768561840420220928-Agox
+
+Day 33-35: Started preparation for my Azure #AZ900 certification. Tried to complete 2 modules out of 4 for the exam. Thanks to Susanth Sutheesh for his amazing playlist on Cloud training. Practiced few SQL problems from Stratascratch and they have a very good amount of questions with difficulty ranging from easy-to-hard. 
+https://www.linkedin.com/posts/vikram--krishna_100daysofdatascience-az900-dswithvikram-activity-6769640181936082944-Ul_N
